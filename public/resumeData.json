@@ -6,16 +6,16 @@
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "regg00@gmail.com",
+    "phone": "418-573-5218",
     "address": {
-      "street": "(Your Street)",
-      "city": "Québec",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "11 rue Albanel",
+      "city": "Lévis",
+      "state": "Québec",
+      "zip": "G6Z 7J8"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "http://localhost:3000/resume.pdf",
     "social": [
       {
         "name": "facebook",
@@ -29,13 +29,13 @@
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/regg00",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Here's a list of some of my skills",
     "education": [
       {
         "school": "University?",
@@ -70,8 +70,8 @@
         "level": "60%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "Python",
+        "level": "70%"
       },
       {
         "name": "ReactJs",
